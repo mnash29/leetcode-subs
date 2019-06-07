@@ -3,7 +3,7 @@ import java.util.HashMap;
 /**
  * Accepted 
  * Runtime: 2ms - faster than 99.20% of Java submissions
- * memory usage: 38MB - less than 98.03% of Java submissions
+ * Memory usage: 38MB - less than 98.03% of Java submissions
  */
  
 public class TwoSum {
